@@ -1,3 +1,7 @@
+# 1.1.1 - 2019.02.11
+
+ - Add SetClient to set custom http client
+
 # 1.1.0 - 2018.08.13
 
  - Appengine integration takes context.Context instead of http.Request (API change)
